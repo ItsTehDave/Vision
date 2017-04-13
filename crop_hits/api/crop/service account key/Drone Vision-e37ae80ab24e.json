@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drone-vision-162114",
+  "private_key_id": "e37ae80ab24ec47bbb90d1282e97689f89c8bb1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC55ZJSkmI/Venf\nxu8kiH33MKbS8zhl6b6/OJfvSU8PqUGMF46KFLhsr9QngsAZ9Yk7Kf2sXjYGb+hn\nhV+Klcuz8SvUKByES+S+2N+ZGYu7XvT/FW/id/UM+syqYvl71SYyHcCve8uVFTdp\nLVHI9ueM6qkoO5OlaDLs/BPRNA8FvH7EUtXUNU2wzs8HTY2MaF6jtfHu7sbqpigc\njo/1aZ6GXTnHRDUKVtcUy5ySVLnsYDQAmWnj65GmZAn3ZhyFibk9q2ydp35n70HP\nxVFjKvjgZH34zEIWc3W4CzScARY1rjiZWXmF8MQ6QUCaniiehfY4Kk5kKCtuqxjn\nuIfx11+1AgMBAAECggEAG1O2GNFQBAN7J9w0l2hBLC9ItsXuSnz7/1wwaYqbRrAY\n5KEp4P5+xetrAovj9Wz0yW+4zLfktTmKLn2at+KhWUhgqwVie8g0TiHPbNAmjFq/\nJShflCkSKuBLadi22A9TWBarlqBaIwZFaP6ygRpam4p7Z2CqqawRoGjF+QDwHGWC\nmppxUiBR9gR3+EGAz+7yBsnWX4dkQYmFttHQhSEPd089FWLnyRuGcAhSdYlLtihS\nMcn3v64fvPLkaDsWfFQXy4hRoMAyt4szo65KogxzMurl2JsLfcI8TLu5w6U8bWpN\nTmv6X4Gulnwb2Zk9HG7nswrwhpoP/DiwhE3FCGIxGQKBgQD2E1nZFItrxa5S3Rgh\nrcPijzRKQIgkMtIAYwKxvSEfm41S6NL4k6BIeEVzhusiV751ow4UJpq3bADD4W4r\nUi1Q0LN76leE13LhYdPHUWsRgfEkcRB5E54lKcTVH0feO8IbFh4075IVeTMLxl0j\n1TM8NdOXRo5F164mx2kBysvyQwKBgQDBZOTmhNds7+YGlrEdY6vR3QbOSAy4RTNb\no3NVIi+bqK5NvcIlIfcIwCoL+lwBx3ALKDxEbG6urHk9ZLCaN7QYFIgyyNc+SbLf\nQ23j+1jE5QLtcj0+flmJxG3Yulhi5nOrVnL++yGrZsvs7nqOVa3QVNsqFKg6/IfL\nW2aAFwPypwKBgQDoUmi3bJAc1eu5TAgmc9nGopEpsTdXhauCtferOvZ00vVgW3Qj\nP61J/lMDuVNxfwnQInt+Rtw3Y/5s8P6EY/don0F1MlAimQ5a/3NkcNf3FYlHcH+u\n7/iU+ZRd6kR96kleLUmjjLONFno9GbCBzh2rMN5tqi1Uf0ZqUkYvbPmT5QKBgQC9\nz8wGII3bot2uy8pMYR4rnXbnkbnCRlEw+QzimuoFKhrhvIRHs71lfk4GcZRKPrfO\ni5ATTCWaFTfttNzMkC2XkNdYmN0Bio4gKWs63t/yaB9mc8B+jL5OxFdX5xWHBE60\n9OVrM4qJUxyFkE8DUj6FgjOVaq7vLhoN0siYoX5DcwKBgQDOAi5c8Cf21ixw6CmI\nsi0AL2kYvhs/IajJ/9+Q15uejSUL7qRnTFuUAoMGfMGXmnXFk69pVoXYprZK/ICS\nJaT5LXUcCwTu2cHRL6opiA6sNWitJENAQ44PwW0PslTOyFsXArB2J7KHuMB5YND1\n8apYaW1KRa/tO6w8Gcf0za6J5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-crop@drone-vision-162114.iam.gserviceaccount.com",
+  "client_id": "106898729546193757576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-crop%40drone-vision-162114.iam.gserviceaccount.com"
+}
